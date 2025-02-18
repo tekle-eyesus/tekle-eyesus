@@ -66,7 +66,7 @@ I'm a Software Engineer passionate about transforming complex problems into eleg
   <a href="https://x.com/TekleeyesusM?t=hX9AO5eE_UthJDqxRlHVkw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=black" alt="Twitter" />
   </a>
-   <a href="https://t.me/T_eyesus&s=09" target="_blank">
+   <a href="https://t.me/T_eyesus" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-7a586e?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram" />
   </a>
 </div>
