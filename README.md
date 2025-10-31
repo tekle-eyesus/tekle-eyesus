@@ -1,8 +1,4 @@
-# Hi, I'm Tekleeyesus! 👋
-
-<div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World%F0%9F%91%8B%2C+I'm+Tekle;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
+# Hi, I'm Tekleeyesus M.
 
 <div align="center">
   <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
@@ -69,20 +65,4 @@ I'm a Software Engineer passionate about transforming complex problems into eleg
    <a href="https://t.me/T_eyesus" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-7a586e?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram" />
   </a>
-</div>
-
-## 💭 A Quote:
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=50&lines=Simplicity+is+the+soul+of+efficiency." alt="Quote" />
-  <br>
-  <em>- Austin Freeman</em>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
