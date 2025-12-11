@@ -14,13 +14,6 @@
 
 I'm a Software Engineer passionate about transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity, fueled by countless hours of self-directed learning and hands-on projects. Through late-night coding sessions and collaborative endeavors, I've honed my skills in resilience and problem-solving, always driven by the thrill of seeing lines of code come to life. Whether it's building robust systems or crafting intuitive user experiences, I thrive on the challenge of creating solutions that make a real impact.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Activity
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tekle-eyesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tekle-eyesus&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> About Me
 
 ### What Drives Me 🚀
